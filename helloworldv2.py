@@ -1,4 +1,6 @@
 #hello world
 #this is a branch
 #now I'm using VS Code
-print (Hello World)
+msg = "Hello World"
+print (msg)
+print (len (msg))
