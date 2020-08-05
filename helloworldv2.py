@@ -2,5 +2,6 @@
 #this is a branch
 #now I'm using VS Code
 msg = "Hello World"
-print (msg)
+A = ' Good Bye'
+print (msg + A)
 print (len (msg))
